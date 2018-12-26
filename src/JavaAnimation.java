@@ -351,7 +351,6 @@ public class JavaAnimation extends JFrame implements KeyListener
 			}
 		}
 		
-		
 		/*
 		 * Moves the ball in it's respective direction, and switches the direction to a new one if it goes out of bounds on the window.
 		 */
