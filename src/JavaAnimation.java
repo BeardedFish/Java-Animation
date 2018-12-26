@@ -123,7 +123,7 @@ public class JavaAnimation extends JFrame implements KeyListener
 	 */
 	private void setupWindow()
 	{
-		this.setTitle("Loading Animation - By: Darian Benam");
+		this.setTitle("Java Animation - By: Darian Benam");
 		this.setSize(500, 500);
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setResizable(false);
